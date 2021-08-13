@@ -1,7 +1,7 @@
 Define practice for discussion, issue, task, definition of done 
 - [ ]  for open/close discussion
 - [ ]  for open/create issue
-- [ ]  for release plan, priority severity
+- [ ]  for release plan, priority and severity
 - [ ]  for EPIC, Backlog, User-story and Task, Bug
 - [ ]  for documentation structure
 - [ ]  collaboration/broadcast channel and meeting schedule

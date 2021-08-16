@@ -22,21 +22,4 @@ contributors/guide/first-contribution.md#find-something-to-work-on
 contributors/guide/contributing.md#opening-a-pull-request
 [Community Membership]:/community-membership.md
 
-- 
-- [ ]  for open/close discussion
-- How to create discussion
-- -  Phase 1 Ideation
-- - - Polls
-- - - Interview using remote meeting or comments
-- - Phase 2 Building
--  Phase 2 build it together
--  
-- [ ]  for open/create issue
-- [ ]  for release plan, priority and severity
-- [ ]  for epic, backlog, user-story and task and bug
-- [ ]  for documentation structure
-- [ ]  collaboration/broadcast channel and meeting schedule
 
-
-
-How to [find a bug in your code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html)

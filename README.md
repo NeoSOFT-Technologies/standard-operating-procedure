@@ -1,9 +1,9 @@
 ## Contribute
 
 The Contributor Guide provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
-1. How to start a discussion
-1. How to file an issue
-1. How to find something to work on
+1. Find something to work on
+1. Start a discussion
+1. Create an issue from discussion
 1. How to open a pull request
 
 

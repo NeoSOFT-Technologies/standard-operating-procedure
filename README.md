@@ -1,7 +1,7 @@
 ## Contribute
 
 The Contributor Guide provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
-1. Find something to work on
+1. [Find something](https://github.com/NeoSOFT-Technologies/standard-operating-procedure/blob/main/where-to-contribute.md) to work on (Find what's your intrest)
 1. Start a discussion
 1. Create an issue from discussion
 1. How to open a pull request
